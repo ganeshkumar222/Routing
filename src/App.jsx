@@ -1,7 +1,7 @@
 // import React from 'react'
 import { BrowserRouter,Routes,Route, Navigate } from 'react-router-dom'
 import { Navbar } from './components/Navbar'
-import { Cards } from './Cards'
+import { Cards } from './components/Cards'
 
 function App() {
   let data =[
