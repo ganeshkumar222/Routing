@@ -37,7 +37,7 @@ function App() {
     footer:"8 November 2023 . No Comments",
     category:"Fsd"
   },{
-    img:"../src/assets/FullStack/fsdimage.jpg",
+    img:".../src/assets/FullStack/fsdimage.jpg",
     title:"Best Books to Learn Full-Stack Development",
     description:"Are you interested in becoming a full-stack developer but not sure where to start?",
     footer:"9 November 2023 . No Comments",
