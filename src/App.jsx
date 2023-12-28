@@ -32,7 +32,7 @@ function App() {
     category:"Fsd"
   },{
     img:"../src/assets/FullStack/fsd5.webp",
-    title:"Top 10 Product-Based Companies for Full-Stack Developers[2024]",
+    title:"Top 10 Product-Based Companies for FSD",
     description:"In the dynamic landscape of technology, full-stack developers are the architects of the digital world",
     footer:"8 November 2023 . No Comments",
     category:"Fsd"
@@ -143,7 +143,7 @@ function App() {
   },
   {
     img:"../src/assets/Cr/cr4.webp",
-    title:"Automation Test Engineer Resume: 10 Important Things To Consider",
+    title:"Automation Test Engineer Resume",
     description:"The world is moving towards automating the testing of products in order to increase work",
     footer:"1 December 2023 . No Comments",
     category:"cr"
