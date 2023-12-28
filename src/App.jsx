@@ -149,7 +149,7 @@ function App() {
     category:"cr"
   },
   {
-    img:"./src/assets/Cr/cr5.webp",
+    img:"../vite.svg",
     title:"Professional Civil Engineer Resume:A Guide to Attract Employers in 2024",
     description:"The world is moving towards automating the testing of products in order to increase work",
     footer:"1 December 2023 . No Comments",
