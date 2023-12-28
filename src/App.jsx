@@ -149,14 +149,14 @@ function App() {
     category:"cr"
   },
   {
-    img:"../vite.svg",
+    img:"/vite.svg",
     title:"Professional Civil Engineer Resume:A Guide to Attract Employers in 2024",
     description:"The world is moving towards automating the testing of products in order to increase work",
     footer:"1 December 2023 . No Comments",
     category:"cr"
   },
   {
-    img:"./src/assets/Cr/cr6.webp",
+    img:"src/assets/Cr/cr6.webp",
     title:"9 Best Product-Based Companies for Project Management",
     description:"In today’s tech-driven world, the demand for project managers is higher than before. The workload",
     footer:"1 December 2023 . No Comments",
