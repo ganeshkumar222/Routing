@@ -156,7 +156,7 @@ function App() {
     category:"cr"
   },
   {
-    img:"src/assets/Cr/cr6.webp",
+    img:"./src/assets/Cr/cr6.webp",
     title:"9 Best Product-Based Companies for Project Management",
     description:"In today’s tech-driven world, the demand for project managers is higher than before. The workload",
     footer:"1 December 2023 . No Comments",
