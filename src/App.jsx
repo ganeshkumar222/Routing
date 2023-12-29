@@ -2,11 +2,12 @@
 import { BrowserRouter,Routes,Route, Navigate } from 'react-router-dom'
 import { Navbar } from './components/Navbar'
 import { Cards } from './components/Cards'
+import fsd1 from "./assets/FullStack/fsd1.webp"
 
 function App() {
   let data =[
     {
-    img:"./src/assets/FullStack/fsd1.webp",
+    img:fsd1,
     title:"Top Ways to Assess Soft Skills in Full Stack Developers in 2024",
     description:"When you're hiring a full-stack developer, what are the most important things you look for?",
     footer:"15 November 2023 . No Comments",
@@ -149,7 +150,7 @@ function App() {
     category:"cr"
   },
   {
-    img:"/vite.svg",
+    img:"./src/assets/Cr/cr5.webp",
     title:"Professional Civil Engineer Resume:A Guide to Attract Employers in 2024",
     description:"The world is moving towards automating the testing of products in order to increase work",
     footer:"1 December 2023 . No Comments",
